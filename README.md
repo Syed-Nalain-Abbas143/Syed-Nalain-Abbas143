@@ -90,9 +90,5 @@ I'm always excited to work on challenging projects and collaborate with other de
 </div>
 ---
  
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
-  
-</div>
+
  
