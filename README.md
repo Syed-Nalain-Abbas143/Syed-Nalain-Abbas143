@@ -75,8 +75,8 @@ I'm always interested in discussing new projects, collaborations, or just chatti
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-nalain)
   
 </div>
----
- 
+
+
 ## 💼 Let's Collaborate!
  
 I'm always excited to work on challenging projects and collaborate with other developers. Whether you have an interesting project idea, need help with frontend development, or just want to chat about web technologies, feel free to reach out!
@@ -88,7 +88,6 @@ I'm always excited to work on challenging projects and collaborate with other de
   ***Happy Coding!*** 👨‍💻
   
 </div>
----
- 
+
 
  
