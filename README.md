@@ -42,7 +42,7 @@ A productivity-focused React application implementing the Pomodoro Technique for
 - Audio notifications
 - Session tracking
 - Clean and intuitive UI
-**[View Project](https://pomowork-timer.netlify.app/)** | **[GitHub Repo]()**
+**[View Project](https://pomowork-timer.netlify.app/)** | **[GitHub Repo](https://github.com/Syed-Nalain-Abbas143/Pomodoro-Timer.git)**
  
 ---
  
