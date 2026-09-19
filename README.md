@@ -9,7 +9,7 @@
  
 ## 👨‍💻 About Me
  
-I'm a passionate **Frontend Developer** dedicated to creating beautiful, responsive, and user-friendly web applications. I specialize in modern web development technologies and love turning ideas into interactive digital experiences. With a strong foundation in HTML, CSS, and JavaScript, I've built several projects showcasing my ability to implement complex features and maintain clean, scalable code.
+I'm a passionate **Frontend Developer** and aspiring **MERN STACK DEVELOPER** dedicated to creating beautiful, responsive, and user-friendly web applications. I specialize in modern web development technologies and love turning ideas into interactive digital experiences. With a strong foundation in HTML, CSS, and JavaScript, I've built several projects showcasing my ability to implement complex features and maintain clean, scalable code.
  
 ---
  
