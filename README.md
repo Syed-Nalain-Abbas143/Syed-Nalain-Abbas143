@@ -2,7 +2,7 @@
  
 <div align="center">
   
-  ![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-Passionate%20Coder-blue?style=for-the-badge&logo=code)
+  ![FRONTEND DEVELOPER](https://img.shields.io/badge/Frontend%20Developer-Passionate%20Coder-blue?style=for-the-badge&logo=code)
   ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge)
   
 </div>
